@@ -13,7 +13,7 @@ The zkteco-js library provides a robust solution for Node.js developers to inter
 ### Installation
 
 ```bash
-npm i zkteco-js
+ npm i github:jameslatajan/zkteco-js
 ```
 
 Or, if you prefer Yarn:
