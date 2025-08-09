@@ -16,12 +16,6 @@ The zkteco-js library provides a robust solution for Node.js developers to inter
  npm i github:jameslatajan/zkteco-js
 ```
 
-Or, if you prefer Yarn:
-
-```bash
-yarn add zkteco-js
-```
-
 ### Usage Example
 
 ```js
